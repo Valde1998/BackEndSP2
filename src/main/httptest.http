@@ -1,5 +1,5 @@
 ###
-POST http://localhost:7170/api/auth/register
+POST http://139.59.137.14:7170/api/auth/register
 Content-Type: application/json
 
 {
